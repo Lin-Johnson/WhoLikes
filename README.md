@@ -25,7 +25,7 @@ Who liked your Moments 朋友圈点赞统计工具
 
 - 目前需要手动截图朋友圈点赞区域并裁剪，保存图片到**images**文件夹，如下所示
 
-<img src="sample.png" alt="1750926955409" style="zoom:33%;" />
+<img src="sample.png" alt="1750926955409" style="zoom:10%;" />
 
 - 运行run.py文件
 
